@@ -1,5 +1,5 @@
 #!/bin/sh
 
-git reset --hard v1.1
+git reset --hard v1.2
 git clean -fx
 git merge octodog

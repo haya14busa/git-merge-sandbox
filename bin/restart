@@ -1,5 +1,5 @@
 #!/bin/sh
 
-git reset --hard v1.3
+git reset --hard v1.4
 git clean -fx
 git merge origin/octodog
